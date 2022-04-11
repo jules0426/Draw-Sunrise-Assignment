@@ -1,0 +1,13 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+canvas {
+    background-color: blue;
+    border: grey;
+}
+
+img {
+    display: none;
+}
